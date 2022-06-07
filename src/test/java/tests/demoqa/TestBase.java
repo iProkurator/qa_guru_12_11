@@ -6,7 +6,7 @@ import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import tests.helpers.Attach;
+import helpers.Attach;
 
 import static com.codeborne.selenide.Selenide.closeWebDriver;
 

@@ -14,7 +14,7 @@ import static io.qameta.allure.Allure.step;
 public class AutomationPracticeFormTests extends TestBase {
 
     @Test
-    @DisplayName("Successful fill regfrom test")
+    @DisplayName("Successful fill regfrom credentials.properties")
     void fillFormTest() {
 
         String firstName = "Pavel";
